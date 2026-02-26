@@ -7,7 +7,7 @@
 
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/peggame/main/thumbnail.png" width="320"><br><br>
+<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/peggame/main/thumbnail.png](https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif)" width="320"><br><br>
 
 <b>PEGGAME</b><br>
 
@@ -19,7 +19,7 @@
 
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/chess/main/thumbnail.png" width="320"><br><br>
+<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/chess/main/thumbnail.png](https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif)" width="320"><br><br>
 
 <b>4×4 CHESS</b><br>
 
@@ -31,7 +31,7 @@
 
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/arrowescape/main/thumbnail.png" width="320"><br><br>
+<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/arrowescape/main/thumbnail.pn](https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_191539807.gif)g" width="320"><br><br>
 
 <b>ARROWESCAPE</b><br>
 
