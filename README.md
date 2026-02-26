@@ -1,42 +1,75 @@
 <h1 align="center">🎮 All Open Source Web Games</h1>
 
-<br>
-
 <table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
 
-<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/peggame/main/thumbnail.png](https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif)" width="320"><br><br>
+<table>
+<tr>
+<td>
 
-<b>PEGGAME</b><br>
+<b>PEGGAME</b>
 
-<a href="https://YOUR_USERNAME.github.io/peggame">🎮 Play</a> •
-<a href="https://github.com/YOUR_USERNAME/peggame">Source</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+<a href="https://crudeGithub.github.io/peggame">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif" width="340">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://crudeGithub.github.io/peggame">🎮 Play</a> |
+<a href="https://github.com/crudeGithub/peggame">Source</a>
+
+</td>
+</tr>
+</table>
 
 </td>
 
 
-<td align="center" width="33%">
+<td width="40"></td>
 
-<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/chess/main/thumbnail.png](https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif)" width="320"><br><br>
 
-<b>4×4 CHESS</b><br>
+<td align="center">
 
-<a href="https://YOUR_USERNAME.github.io/chess">🎮 Play</a> •
-<a href="https://github.com/YOUR_USERNAME/chess">Source</a>
+<table>
+<tr>
+<td>
+
+<b>4×4 CHESS</b>
 
 </td>
+</tr>
 
+<tr>
+<td>
 
-<td align="center" width="33%">
+<a href="https://crudeGithub.github.io/chess">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif" width="340">
+</a>
 
-<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/arrowescape/main/thumbnail.pn](https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_191539807.gif)g" width="320"><br><br>
+</td>
+</tr>
 
-<b>ARROWESCAPE</b><br>
+<tr>
+<td align="center">
 
-<a href="https://YOUR_USERNAME.github.io/arrowescape">🎮 Play</a> •
-<a href="https://github.com/YOUR_USERNAME/arrowescape">Source</a>
+<a href="https://crudeGithub.github.io/chess">🎮 Play</a> |
+<a href="https://github.com/crudeGithub/chess">Source</a>
+
+</td>
+</tr>
+</table>
 
 </td>
 
