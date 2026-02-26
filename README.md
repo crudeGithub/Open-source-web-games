@@ -13,8 +13,8 @@
 
 <!-- PORTFOLIO -->
 <td align="center" style="padding:12px;">
-<a href="https://umang.work">
-<img src="https://img.shields.io/badge/🎮_View_Portfolio-111827?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://umang.work/opensourcewebgames">
+<img src="https://img.shields.io/badge/🎮_PlayAll-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
 
