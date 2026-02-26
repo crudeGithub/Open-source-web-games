@@ -5,7 +5,7 @@
 
 <!-- GAME 1 -->
 <td align="center" style="padding:10px;">
-<b>PEGGAME</b><br><br>
+<b>STACK GAME</b><br><br>
 <a href="https://crudeGithub.github.io/peggame">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif" width="240">
 </a>
@@ -13,7 +13,7 @@
 
 <!-- GAME 2 -->
 <td align="center" style="padding:10px;">
-<b>4×4 CHESS</b><br><br>
+<b>2048 GAME</b><br><br>
 <a href="https://crudeGithub.github.io/chess">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif" width="240">
 </a>
