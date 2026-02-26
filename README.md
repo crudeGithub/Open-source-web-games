@@ -6,7 +6,7 @@
 <!-- GAME 1 -->
 <td align="center" style="padding:10px;">
 <b>STACK GAME</b><br><br>
-<a href="https://crudeGithub.github.io/webgame1">
+<a href="https://crudeGithub.github.io/WebGame1">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif" width="240">
 </a>
 </td>
@@ -14,7 +14,7 @@
 <!-- GAME 2 -->
 <td align="center" style="padding:10px;">
 <b>2048 GAME</b><br><br>
-<a href="https://crudeGithub.github.io/webgame4">
+<a href="https://crudeGithub.github.io/WebGame4">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif" width="240">
 </a>
 </td>
