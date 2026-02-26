@@ -1,24 +1,60 @@
-# 🎮 All Open Source Web Games
+<h1 align="center">🎮 All Open Source Web Games</h1>
 
-Collection of all my open-source browser games.
+<table>
+<tr>
 
----
+<td align="center" width="33%" style="border:3px solid black; padding:15px; box-shadow:6px 6px black;">
 
-## Games
+<b>Mission 1</b><br><br>
 
-### Runner Game
+<h3>PEGGAME</h3>
 
-[![Play Runner](https://raw.githubusercontent.com/YOUR_USERNAME/runner/main/thumbnail.png)](https://YOUR_USERNAME.github.io/runner)
+<a href="https://YOUR_USERNAME.github.io/peggame">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/peggame/main/thumbnail.png" width="300"/>
+</a>
 
-▶ Play Game: https://YOUR_USERNAME.github.io/runner  
-💻 Source Code: https://github.com/YOUR_USERNAME/runner
+<br><br>
+
+<a href="https://YOUR_USERNAME.github.io/peggame">🎮 Play</a> |
+<a href="https://github.com/YOUR_USERNAME/peggame">💻 Source</a>
+
+</td>
 
 
----
+<td align="center" width="33%" style="border:3px solid black; padding:15px; box-shadow:6px 6px black;">
 
-### Shooter Game
+<b>Mission 2</b><br><br>
 
-[![Play Shooter](https://raw.githubusercontent.com/YOUR_USERNAME/shooter/main/thumbnail.png)](https://YOUR_USERNAME.github.io/shooter)
+<h3>4x4 CHESS</h3>
 
-▶ Play Game: https://YOUR_USERNAME.github.io/shooter  
-💻 Source Code: https://github.com/YOUR_USERNAME/shooter
+<a href="https://YOUR_USERNAME.github.io/chess">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/chess/main/thumbnail.png" width="300"/>
+</a>
+
+<br><br>
+
+<a href="https://YOUR_USERNAME.github.io/chess">🎮 Play</a> |
+<a href="https://github.com/YOUR_USERNAME/chess">💻 Source</a>
+
+</td>
+
+
+<td align="center" width="33%" style="border:3px solid black; padding:15px; box-shadow:6px 6px black;">
+
+<b>Mission 3</b><br><br>
+
+<h3>ARROWESCAPE</h3>
+
+<a href="https://YOUR_USERNAME.github.io/arrowescape">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/arrowescape/main/thumbnail.png" width="300"/>
+</a>
+
+<br><br>
+
+<a href="https://YOUR_USERNAME.github.io/arrowescape">🎮 Play</a> |
+<a href="https://github.com/YOUR_USERNAME/arrowescape">💻 Source</a>
+
+</td>
+
+</tr>
+</table>
