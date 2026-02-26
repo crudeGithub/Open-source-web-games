@@ -58,29 +58,27 @@
 <td width="30"></td>
 
 
-<!-- GAME 3 -->
+<!-- GAME 2 -->
 <td align="center">
 <table>
-<tr><td><b>GAME 3</b></td></tr>
+<tr><td><b>4×4 CHESS</b></td></tr>
 
 <tr>
 <td>
-<a href="#">
-<img src="YOUR_IMAGE" width="300">
+<a href="https://crudeGithub.github.io/chess">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/InShot_20251220_192159610.gif" width="300">
 </a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="#">🎮 Play</a> |
-<a href="#">Source</a>
+<a href="https://crudeGithub.github.io/chess">🎮 Play</a> |
+<a href="https://github.com/crudeGithub/chess">Source</a>
 </td>
 </tr>
 </table>
-</td>
-
-</tr>
+</td
 
 
 
