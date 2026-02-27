@@ -29,7 +29,7 @@
 <!-- GAME 1 -->
 <td align="center" style="padding:10px;">
 <b>STACK GAME</b><br><br>
-<a href="https://crudeGithub.github.io/WebGame1">
+<a href="https://github.com/crudeGithub/WebGame1">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/stackblockGame.gif" width="240">
 </a>
 </td>
@@ -37,7 +37,7 @@
 <!-- GAME 2 -->
 <td align="center" style="padding:10px;">
 <b>2048 GAME</b><br><br>
-<a href="https://crudeGithub.github.io/WebGame4">
+<a href="https://github.com/crudeGithub/WebGame4">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/2048Game.gif" width="240">
 </a>
 </td>
@@ -45,7 +45,7 @@
 <!-- GAME 3 -->
 <td align="center" style="padding:10px;">
 <b>TapTapShots</b><br><br>
-<a href="#">
+<a href="https://github.com/crudeGithub/WebGame7">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/TapTapShots.gif" width="240">
 </a>
 </td>
@@ -61,7 +61,7 @@
 <!-- GAME 1 -->
 <td align="center" style="padding:10px;">
 <b>ZipConnect</b><br><br>
-<a href="https://crudeGithub.github.io/WebGame1">
+<a href="https://github.com/crudeGithub/WebGame6">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/ZipConnect.gif" width="240">
 </a>
 </td>
