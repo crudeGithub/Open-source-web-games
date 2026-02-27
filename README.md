@@ -44,11 +44,29 @@
 
 <!-- GAME 3 -->
 <td align="center" style="padding:10px;">
-<b>NEW GAME DAILY</b><br><br>
+<b>TapTapShots</b><br><br>
 <a href="#">
-<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/434174356_729068002669036_7649218582838364735_n.jpg" width="240">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/TapTapShots.gif" width="240">
 </a>
 </td>
+
+</tr>
+</table>
+
+
+
+<table align="center">
+<tr>
+
+<!-- GAME 1 -->
+<td align="center" style="padding:10px;">
+<b>ZipConnect</b><br><br>
+<a href="https://crudeGithub.github.io/WebGame1">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/ZipConnect.gif" width="240">
+</a>
+</td>
+
+
 
 </tr>
 </table>
