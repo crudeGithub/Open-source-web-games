@@ -66,7 +66,13 @@
 </a>
 </td>
 
-
+<!-- GAME 2 -->
+<td align="center" style="padding:10px;">
+<b>Connect4</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame8">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/Connect4.gif" width="240">
+</a>
+</td>
 
 </tr>
 </table>
