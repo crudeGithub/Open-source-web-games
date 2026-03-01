@@ -74,5 +74,13 @@
 </a>
 </td>
 
+<!-- GAME 3 -->
+<td align="center" style="padding:10px;">
+<b>HexaSort3D</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame2">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/HexaSort3D.gif" width="240">
+</a>
+</td>
+
 </tr>
 </table>
