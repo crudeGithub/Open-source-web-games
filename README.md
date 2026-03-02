@@ -93,7 +93,7 @@
 <td align="center" style="padding:10px;">
 <b>BlockBlast</b><br><br>
 <a href="https://github.com/crudeGithub/WebGame9">
-<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/favicon.svg" width="240">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/BlockBlast.gif" width="240">
 </a>
 </td>
 
