@@ -13,7 +13,7 @@
 
 <!-- PORTFOLIO -->
 <td align="center" style="padding:12px;">
-<a href="https://umang.work/opensourcewebgames">
+<a href="https://gamedistribution.in">
 <img src="https://img.shields.io/badge/🎮_PlayAll-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
