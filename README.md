@@ -101,7 +101,7 @@
 <td align="center" style="padding:10px;">
 <b>Card Solitaire</b><br><br>
 <a href="https://github.com/crudeGithub/WebGame11">
-<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/favicon.svg" width="240">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/CardSolitaire.gif" width="240">
 </a>
 </td>
 
@@ -109,7 +109,7 @@
 <td align="center" style="padding:10px;">
 <b>DotsAndBoxes</b><br><br>
 <a href="https://github.com/crudeGithub/WebGame10">
-<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/favicon.svg" width="240">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/DotsAndBoxes.gif" width="240">
 </a>
 </td>
 
