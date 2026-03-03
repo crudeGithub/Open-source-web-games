@@ -116,3 +116,18 @@
 </tr>
 </table>
 
+<table align="center">
+<tr>
+
+<!-- GAME 1 -->
+<td align="center" style="padding:10px;">
+<b>Checkers</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame12">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/Checkers.gif" width="240">
+</a>
+</td>
+
+
+</tr>
+</table>
+
