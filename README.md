@@ -127,6 +127,13 @@
 </a>
 </td>
 
+<!-- GAME 2 -->
+<td align="center" style="padding:10px;">
+<b>SlingPuck</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame13">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/SlingPuck.gif" width="240">
+</a>
+</td>
 
 </tr>
 </table>
