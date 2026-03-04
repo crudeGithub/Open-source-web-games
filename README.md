@@ -28,9 +28,9 @@
 
 <!-- GAME 1 -->
 <td align="center" style="padding:10px;">
-<b>STACK GAME</b><br><br>
-<a href="https://github.com/crudeGithub/WebGame1">
-<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/stackblockGame.gif" width="240">
+<b>NutsSortPuzzle</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame3">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/NutsSortPuzzle.gif" width="240">
 </a>
 </td>
 
@@ -132,6 +132,14 @@
 <b>SlingPuck</b><br><br>
 <a href="https://github.com/crudeGithub/WebGame13">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/SlingPuck.gif" width="240">
+</a>
+</td>
+
+<!-- GAME 3 -->
+<td align="center" style="padding:10px;">
+<b>STACK GAME</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame1">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/stackblockGame.gif" width="240">
 </a>
 </td>
 
