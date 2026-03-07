@@ -54,6 +54,38 @@
 </table>
 
 
+<table align="center">
+<tr>
+
+<!-- GAME 1 -->
+<td align="center" style="padding:10px;">
+<b>WaterSort</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame3">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/WaterSort.gif" width="240">
+</a>
+</td>
+
+<!-- GAME 2 -->
+<td align="center" style="padding:10px;">
+<b>BallSort</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame4">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/BallSort.gif" width="240">
+</a>
+</td>
+
+<!-- GAME 3 -->
+<td align="center" style="padding:10px;">
+<b>ArrowEscape</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame7">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/ArrowEscape.gif" width="240">
+</a>
+</td>
+
+</tr>
+</table>
+
+
+
 
 <table align="center">
 <tr>
