@@ -192,7 +192,13 @@
 </a>
 </td>
 
-
+<!-- GAME 2 -->
+<td align="center" style="padding:10px;">
+<b>Snake</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame12">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/Snake.gif" width="240">
+</a>
+</td>
 
 </tr>
 </table>
