@@ -84,7 +84,35 @@
 </tr>
 </table>
 
+<table align="center">
+<tr>
 
+<!-- GAME 1 -->
+<td align="center" style="padding:10px;">
+<b>Paper IO</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame3">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/PaperIo.gif" width="240">
+</a>
+</td>
+
+<!-- GAME 2 -->
+<td align="center" style="padding:10px;">
+<b>CarromPool</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame4">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/Carrom.gif" width="240">
+</a>
+</td>
+
+<!-- GAME 3 -->
+<td align="center" style="padding:10px;">
+<b>TapArrow</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame7">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/TapArrow.gif" width="240">
+</a>
+</td>
+
+</tr>
+</table>
 
 
 <table align="center">
