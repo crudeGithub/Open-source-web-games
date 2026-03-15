@@ -239,7 +239,7 @@
 </tr>
 </table>
 
-table align="center">
+<table align="center">
 <tr>
 
 <!-- GAME 1 -->
@@ -249,7 +249,6 @@ table align="center">
 <img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/TicTacGo.gif" width="240">
 </a>
 </td>
-
 
 
 </tr>
