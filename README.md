@@ -228,5 +228,30 @@
 </a>
 </td>
 
+<!-- GAME 3 -->
+<td align="center" style="padding:10px;">
+<b>CollectEm</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame12">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/CollectEm.gif" width="240">
+</a>
+</td>
+
 </tr>
 </table>
+
+table align="center">
+<tr>
+
+<!-- GAME 1 -->
+<td align="center" style="padding:10px;">
+<b>TicTacGo</b><br><br>
+<a href="https://github.com/crudeGithub/WebGame12">
+<img src="https://cdn.jsdelivr.net/gh/crudeGithub/portfolio-media/TicTacGo.gif" width="240">
+</a>
+</td>
+
+
+
+</tr>
+</table>
+
